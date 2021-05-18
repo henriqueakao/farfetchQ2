@@ -1,0 +1,16 @@
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.exe
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.deps.json
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.runtimeconfig.json
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.runtimeconfig.dev.json
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.dll
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\ref\farfetchQ2.dll
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\bin\Debug\net5.0\farfetchQ2.pdb
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.AssemblyInfo.cs
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.dll
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\ref\farfetchQ2.dll
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.pdb
+C:\Users\henri\Desktop\code\farfetch\farfetchQ2\obj\Debug\net5.0\farfetchQ2.genruntimeconfig.cache
